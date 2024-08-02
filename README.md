@@ -10,9 +10,9 @@ Hai, saya Teguh alias MzPraz. Saya seorang teknisi komputer dan jaringan & penge
 <!-- **[Twitter](https://twitter.com/dhafitf)**<br /> -->
 **[Instagram](https://www.instagram.com/dzuu_bair)**
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Praz-715&show_icons=true&theme=tokyonight&locale=en" alt="Praz-715" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=zubairUBL&show_icons=true&theme=tokyonight&locale=en" alt="zubairUBL" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Praz-715&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Praz-715" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubairUBL&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zubairUBL" /></p>
 
     
 
